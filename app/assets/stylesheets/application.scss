@@ -1,0 +1,19 @@
+@import "bootstrap/scss/bootstrap";
+@import "font-awesome";
+@import "listas/index";
+@import "colors";
+@import "avatar";
+
+body{
+  background-color: #0f0f0f;
+}
+
+header{
+  background-color: #000000;
+  height: 15vh;
+}
+
+footer{
+  background-color: #000000;
+  height: 7vh;
+}
